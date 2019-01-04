@@ -1,0 +1,1 @@
+INSERT INTO `book`(`book_id`, `title`, `author`, `price`) VALUES (1,'title1','author1',123.99);
